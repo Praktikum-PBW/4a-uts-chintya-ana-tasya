@@ -1,0 +1,114 @@
+
+.cardd {
+    padding-top: 65px;
+    background-color: #9cb0f1;
+  }
+  
+  .contact {
+    padding-top: 85px;
+  }
+  
+  .contact h2{
+    color: rgb(39, 88, 223);
+  }
+  
+  .btn{
+    background:rgb(124, 143, 248);
+    color: rgb(21, 97, 196);
+  }
+  
+  .active {
+    color: rgb(3, 50, 180);
+    content: '';
+    display: block;
+    border-bottom: 2px solid rgb(96, 123, 243);
+    padding-bottom: 21px;
+    margin-bottom: -20px;
+  }
+  
+  .iconnavbar {
+    font-family : 'Lucida Sans Unicode', sans-serif;
+    font-size: 25px;
+  }
+  
+  .nav-link {
+    text-transform: uppercase;
+    margin-right: 10px;
+  }
+  
+  .jumbotron {
+    padding-top: 60px;
+    background-size: auto 600px;
+    background-color: #a7b7ff;
+    background-repeat: no-repeat;
+    background-position: right top;
+    height: 600px;
+  }
+  
+  .slogan {
+    margin-top: 180px;
+    font-family: 'Roboto', sans-serif;
+    color: rgb(45, 106, 218);
+    text-shadow: 1px 1px 1px rgb(70, 70, 70);
+  }
+  
+  .tombol {
+    text-transform: uppercase;
+    border-radius: 40px;
+    margin-top: 40px;
+    margin-left: 250px;
+    
+  }
+  
+  .about{
+    padding-top: 70px;
+    background-size: auto 650px;
+    height: 700px;
+  }
+  
+  .bgrnd{
+    background-color: #a7b7ff;
+  }
+  
+  .about img{
+    margin-top: 30px;
+    width: 400px;
+  }
+  
+  .about h6{
+    color: rgb(16, 57, 194);
+    margin-top: 30px;
+  }
+  
+  .about h2 {
+    margin-top: 17px;
+  
+  }
+  
+  .garis{
+    border-bottom: 2px solid rgb(76, 106, 241);
+    padding-bottom: 18px;
+    width: 30%;
+  }
+  
+  .about p {
+    margin-top: 20px;
+  }
+  
+  .thumbnail {
+      margin-top: 50px;
+      margin-bottom: 20px;
+  }
+  
+  .footer{
+    margin-top: 20px;
+    background-color: #1c4ff8;
+    padding: 10px;
+    text-align: center;
+  }
+  nav{
+      background-color: rgb(211, 211, 253);
+  }
+  .contact{
+    background-color: #a7b7ff;
+  }
